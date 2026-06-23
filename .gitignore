@@ -1,0 +1,32 @@
+# Python
+
+**pycache**/
+*.pyc
+
+# Virtual Environment
+
+venv/
+.env
+
+# Node.js
+
+node_modules/
+
+# VS Code
+
+.vscode/
+
+# Terraform
+
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Logs
+
+*.log
+
+# OS Files
+
+.DS_Store
+Thumbs.db
